@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="security:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="65217f44-be31-4bb6-8bf0-e4da86c70c18" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../PP2.3/MVCHIBER/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP2.3/MVCHIBER/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP2.3/MVCHIBER/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP2.3/MVCHIBER/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP2.3/MVCHIBER/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP2.3/MVCHIBER/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP2.3/MVCHIBER/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP2.3/MVCHIBER/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP2.3/MVCHIBER/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP2.3/SpringMVC/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP2.3/SpringMVC/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP2.3/SpringMVC/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP2.3/SpringMVC/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP2.3/SpringMVC/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP2.3/SpringMVC/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP2.3/SpringMVC/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP2.3/SpringMVC/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../countries/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../countries/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../countries/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../countries/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../countries/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../countries/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../countries/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../countries/src/main/java/com/kopanitskiy/spring/rest/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../countries/src/test/java/com/kopanitskiy/spring/rest/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/0002f589e96711f0bfbc32c6ee6bdd6c_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/0499ae4ce96611f0ae2132b55455d9cc_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/070e1f21e96f11f0ad543a0e75a13bb5_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/0916bbc9ebb811f09539e21fd7f4ec8b_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/0abb274be96e11f0bf23c6ff85a5d588_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/0ff5e185ed3311f08f53dee06c88f845_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/1aa66c62-4629-4702-b02e-47792251c465.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/1c67b6fbe97011f0874cfe0237c3f1f9_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/247eb7f3ed3511f0bfbc32c6ee6bdd6c_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/2878e96fe96811f0bcd11e9551aeedad_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/2b13ebfce96711f0aedeae4cbac9b569_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/30c44196e96611f0b71e1640bb9e3407_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/31ec4ec3e96e11f08701cae00be389f0_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/335d88a5e97011f08543fe84b05cb757_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/45d856c1e96e11f0a83d7e6657eb80fd_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/47138ed3e96911f09fda62580a9a0eed_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/5c8c92ebed1511f08bcaf6f1595960a9_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/5f8006e6e96e11f0b54286eb6ed6234f_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/645a4b76ed3411f0b9208abd00bb35ee_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/67f93294e96911f0b5945ec1df4fe591_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/6b14c487e96811f0b6982ad299f7aa29_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/6c9f6ce2ed3311f0abbe2631f4718a02_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/76332734-3eeb-4056-bf8a-c6a0dcecf711.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/7a549908e96911f0bfbc32c6ee6bdd6c_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/8107f400-dd6f-49c5-aedb-c9a9e0f02ffd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/812f7a00ed3311f0a559c66f7575747b_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/82c61024e96f11f08af7da8223826333_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/928b69b4e96811f0a3345af037dcaaf0_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/978c7e01e96711f0ae2132b55455d9cc_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/a4985938e96811f0a90f96c02fa0e3e9_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/b82e9d29e96f11f0ae8ceaaea2d40405_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/cb331ce7e96d11f0833a6a552f900f2a_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/cca98ff8ed1511f0b7630a044bda6cd0_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/cd4bc611e96711f0a0ed6ef739cff788_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/d256639ced3411f095f11a78a4dacd15_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/d2a569a2e96511f09d2b6ad40b05cccc_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/d4cbf5fbe96711f0bcd11e9551aeedad_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/d7ef7afeed3311f09ff77290a90778b3_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/e34cece4ebb711f09a7d228aac40ec48_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/e68d9ff1e96811f0a60d569392929c0b_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/e9258626e96611f0ae2132b55455d9cc_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/ee72382ee96e11f0abd5f60649d61e2f_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/ee9b0d16ed3411f0a2f876531f16a47c_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/f5201e91ed3211f0abbe2631f4718a02_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/f5516aad-c58c-4f1b-972b-899e4f1cec15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/f6319d24e96811f0afcc92781b8647a2_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/f7f4df66ed3311f0a52116ff1222dddb_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/f9d9ad40e96e11f0abc88a86a69de6a7_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/fe84a11fe96811f0a7b6fe08b2ffe7d2_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/s74.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/unnamed (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/unnamed.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/Снимок экрана 2026-01-09 115939.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/Снимок экрана 2026-01-09 120112.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/Снимок экрана 2026-01-09 120140.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/Снимок экрана 2026-01-09 120503.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/Снимок экрана 2026-01-09 120521.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KTHF/ТЗ S7.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PP2.1/PP_2_1_2_Spring_HelloWorld" beforeDir="false" afterPath="$PROJECT_DIR$/../PP2.1/PP_2_1_2_Spring_HelloWorld" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S7_Презентация.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Yandex.lnk" beforeDir="false" afterPath="$PROJECT_DIR$/../Yandex.lnk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../µTorrent.lnk" beforeDir="false" afterPath="$PROJECT_DIR$/../µTorrent.lnk" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3Ambnet7667TVlxvxRSAgni0m6d" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Tomcat Server.Tomcat 9.0.115.executor": "Run",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationStatuses">
+      <map>
+        <entry key="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+          <value>
+            <map>
+              <entry key="Tomcat 9.0.115" value="STOPPED" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.115" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.115" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="security:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/security" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="fef85452-4467-463a-b433-abf27bec9419" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57486" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="security:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.26830.84" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65217f44-be31-4bb6-8bf0-e4da86c70c18" name="Changes" comment="" />
+      <created>1773200862704</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773200862704</updated>
+      <workItem from="1773200863792" duration="5266000" />
+      <workItem from="1773218550819" duration="6793000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
